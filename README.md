@@ -10,3 +10,5 @@ This repo contains 3 diffrent projects:
 3. MessageFinder - Last program have to wrote if saved captured traffic (*.pcap) contains hidden message.
 
 I got 15 prepared pcap-s those are huge so I wont put them in this repo. They are available for request :)
+
+More info + schema of working is written in documentation which is located in repo.
